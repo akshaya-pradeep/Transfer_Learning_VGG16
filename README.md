@@ -1,6 +1,6 @@
 Transfer Learning-based Face Mask Detection with VGG16
 
-I have recently implemented a Mask Detection Model based on Transfer Learning with VGG16. Rather than training a CNN from scratch, I used VGG16 (pre-trained on ImageNet) and fine-tuned it to classify images into With Mask and Without Mask categories.
+Implemented a Mask Detection Model based on Transfer Learning with VGG16. Rather than training a CNN from scratch, I used VGG16 (pre-trained on ImageNet) and fine-tuned it to classify images into With Mask and Without Mask categories.
 
 - Pre-trained VGG16 for feature extraction
 
